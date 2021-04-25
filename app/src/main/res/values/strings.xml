@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Companies</string>
+    <string name="app_id">com.gno.taskthecompanies</string>
+    <string name="company_image">company image</string>
+    <string name="company_name">name company</string>
+    <string name="company_description">description</string>
+    <string name="company_web">web</string>
+    <string name="company_phone">phone</string>
+    <string name="company_coordinates">Посмотреть на карте</string>
+</resources>
